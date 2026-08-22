@@ -3,7 +3,6 @@ export default function Home(){
     <div className='text-2xl text-center'>
       Hii
     </div>
-    
 
   )
 }
