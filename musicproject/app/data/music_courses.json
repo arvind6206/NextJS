@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Master the fundamentals of piano playing with easy-to-follow lessons.",
+      "price": 79.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand scales, chords, rhythm, notation, and the fundamentals of music theory.",
+      "price": 59.99,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "/courses/music-theory.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Digital Music Production",
+      "slug": "digital-music-production",
+      "description": "Learn how to create, record, mix, and produce professional-quality music.",
+      "price": 129.99,
+      "instructor": "Daniel Smith",
+      "isFeatured": true,
+      "image": "/courses/music-production.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training",
+      "slug": "vocal-training",
+      "description": "Improve your singing technique, pitch, breathing, and vocal confidence.",
+      "price": 89.99,
+      "instructor": "Sarah Williams",
+      "isFeatured": false,
+      "image": "/courses/vocal-training.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Take your guitar skills to the next level with advanced chords, scales, and techniques.",
+      "price": 119.99,
+      "instructor": "James Wilson",
+      "isFeatured": false,
+      "image": "/courses/advanced-guitar.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create electronic tracks using synthesis, sampling, effects, and modern production techniques.",
+      "price": 149.99,
+      "instructor": "Alex Martin",
+      "isFeatured": true,
+      "image": "/courses/electronic-music.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Songwriting Masterclass",
+      "slug": "songwriting-masterclass",
+      "description": "Learn how to write memorable melodies, meaningful lyrics, and complete songs.",
+      "price": 109.99,
+      "instructor": "Olivia Davis",
+      "isFeatured": false,
+      "image": "/courses/songwriting.jpg"
+    }
+  ]
+}
